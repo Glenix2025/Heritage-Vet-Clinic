@@ -23,7 +23,7 @@ import {
   Menu,
   Search
 } from "lucide-react";
-import { motion, AnimatePresence } from "motion/react";
+import { motion, AnimatePresence } from "framer-motion";
 import { SvgLogo } from "./components/SvgLogo";
 import { PawsyChatbot } from "./components/PawsyChatbot";
 import { ServiceCategory, StaffMember, FaqItem } from "./types";
