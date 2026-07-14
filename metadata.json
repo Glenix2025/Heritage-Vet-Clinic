@@ -1,0 +1,6 @@
+{
+  "name": "Heritage Veterinary Clinic",
+  "description": "A highly polished, modern demo website and Pawsy AI chatbot assistant for Heritage Veterinary Clinic in Coburg, VIC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
